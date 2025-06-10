@@ -1,0 +1,11 @@
+### PUT request to create a new patient
+PUT http://localhost:4000/patients/a5a655f6-33f9-454d-ad65-2b00babc1452
+Content-Type: application/json
+
+{
+  "name": "Pasan Dewusara 1",
+  "email": "text@example.com",
+  "address": "123 Main St, City, Country",
+  "dateOfBirth": "1990-01-01",
+  "registeredDate": "2023-10-01"
+}

@@ -1,0 +1,8 @@
+GRPC localhost:9001/BillingService/CreateBillingAccount
+
+
+{
+    "parentId": "12333",
+    "name": "John Nike",
+    "email": "John.doe@example.com"
+}

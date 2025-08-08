@@ -105,6 +105,17 @@
             <artifactId>protobuf-java</artifactId>
             <version>4.29.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.spil</groupId>
+            <artifactId>billing-service</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>kr.motd.maven</groupId>-->
+        <!--            <artifactId>os-maven-plugin</artifactId>-->
+        <!--            <version>1.7.0</version>-->
+        <!--        </dependency>-->
     </dependencies>
 
     <build>
